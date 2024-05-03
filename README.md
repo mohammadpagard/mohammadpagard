@@ -1,16 +1,23 @@
-### Hi there 👋
+### programmer, open-source
+##
+### Think Twice, Code Once ...
+##
 
-<!--
-**mohammadpagard/mohammadpagard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages & Tools
+  <a href="#">
+    <img
+        src="https://skillicons.dev/icons?i=c,python,django,linux&theme=dark"
+    />
+  </a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+  <a href="https://github.com/mohammadpagard/mohammadpagard/issues/">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
+  <a href="https://mailto:mohammadpagard.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-pagardkar/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
