@@ -18,6 +18,3 @@
   <a href="mailto:mohammadpagard.dev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
-  <a href="https://www.linkedin.com/in/mohammad-pagardkar/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
